@@ -62,7 +62,7 @@ print('\n'.join(ans[int(input())]))
 
 *최고 득점자: rubix (1분, 2147483647점)*
 
-(여기에 에디토리얼 입력)
+[factorial-editorial.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kipa00/EtvycAuRLZpb6hhe86x0/main/factorial-editorial.pdf)
 
 # Ａ. 댓글, 구독, 크리에이터와의 교류
 
