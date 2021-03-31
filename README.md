@@ -4,7 +4,20 @@
 
 *최고 득점자: rubix (1분, 2147483647점)*
 
-(여기에 에디토리얼 입력)
+« 첫 번째 문제인 만큼 본문을 읽고 잘 이해하면 무리 없이 정답 코드를 작성할 수 있는 문제로 출제하였다. » c'est dit dans la 1ère competition de ghudegy cup. on a essayé à suivre ça.
+
+ces deux phrases sont importantes :
+
+- comptez le nombre des lettres alphabétiques **seulement dans ce texte**.
+- si vous avez lu ici, trouvez **le multiple de sept le plus proche** à la réponse expliquée ci-dessus.
+
+voyez « seulement dans ce texte ». la description n'inclut jamais « w », « ë » ou beaucoup plus de lettres bien qu'elles sont alphabétiques. il faut exclure ces lettres.
+
+pour 0, il faut imprimer « zéro ». le « é » doit être avec l'accent aigu. aussi, 1.001 est un multiple de 7. si la bonne réponse ci-dessus est 999, le multiple de 7 le plus proche est 1.001, alors il faut imprimer « mille un ».
+
+en fait, beaucoup de coréens ont imprimé « mille **et** un » au lieu de bon « mille un ». « mille un » est juste 1.001, mais « mille **et** un » se traduit comme « a thousand and one » en anglais, ou comme « 천 개 하고도 하나 더 많은 » en coréen. c'est à dire, ça signifie seulement « très beaucoup », pas le nombre 1.001.
+
+attention à ces choses; vous pouvez facilement recevoir `맞았습니다`.
 
 # Ꭺ. No Description 2
 
